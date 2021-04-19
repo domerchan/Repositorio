@@ -2,7 +2,7 @@
 ### by: Doménica Merchán García
 Repositorio de tareas, pruebas y exámenes de Simulación 
 
-#### Tabla de contenidos
+#### TABLA DE CONTENIDOS
 
 ##### Tareas
 1. Simulación de lanzamiento de dados [ir a la actividad](https://github.com/domerchan/Repositorio/tree/main/07-04%20Tarea%201%20(Dados))
