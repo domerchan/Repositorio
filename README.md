@@ -12,4 +12,4 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 
 ##### Actividades en clase
 1. Juego de la vida [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida))
-    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/09-04%20Tarea%202%20(Juego%20de%20la%20vida)/Informe.pdf)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida)/Informe.pdf)
