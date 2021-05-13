@@ -16,3 +16,9 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 ##### Actividades en clase
 1. Juego de la vida [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida))
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida)/Informe.pdf)
+
+
+##### Pruebas
+1. Prueba Unidad 1[(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/12-05%20Prueba%20Pr%C3%A1ctica%201)
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/12-05%20Prueba%20Pr%C3%A1ctica%201/Prueba.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/12-05%20Prueba%20Pr%C3%A1ctica%201/Prueba.pdf)
