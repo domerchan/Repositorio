@@ -12,6 +12,9 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 2. Regreción COVID [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/23-04%20Tarea%202%20(Regresi%C3%B3n%20COVID))
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/23-04%20Tarea%202%20(Regresi%C3%B3n%20COVID)/Regresion%20COVID.ipynb)
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/23-04%20Tarea%202%20(Regresi%C3%B3n%20COVID)/Informe%20Regresion%20COVID.pdf)
+3. Modelo SIR Ecuador [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/04-25%20Contagio%20COVID%20SIR))
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Modelo%20SIR%20-%20contagios%20COVID.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Informe%20-%20Modelo%20SIR%20-%20contagios%20COVID.pdf)
 
 ##### Actividades en clase
 1. Juego de la vida [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida))
@@ -22,3 +25,9 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 1. Prueba Unidad 1[(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/12-05%20Prueba%20Pr%C3%A1ctica%201)
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/12-05%20Prueba%20Pr%C3%A1ctica%201/Prueba.ipynb)
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/12-05%20Prueba%20Pr%C3%A1ctica%201/Prueba.pdf)
+
+
+##### Exámenes
+1. Examen de Interciclo [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/06-03%20Examen%20Interciclo)
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/06-03%20Examen%20Interciclo/Examen.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/06-03%20Examen%20Interciclo/Informe.pdf)
