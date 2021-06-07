@@ -15,6 +15,9 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 3. Modelo SIR Ecuador [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/04-25%20Contagio%20COVID%20SIR))
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Modelo%20SIR%20-%20contagios%20COVID.ipynb)
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Informe%20-%20Modelo%20SIR%20-%20contagios%20COVID.pdf)
+5. Reportes Matplotlib - FIFA [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/05-05%20Reportes%20Fifa))
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/05-05%20Reportes%20Fifa/Reportes%20Fifa.ipynb)
+
 
 ##### Actividades en clase
 1. Juego de la vida [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/09-04%20Actividad%201%20(Juego%20de%20la%20vida))
