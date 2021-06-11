@@ -11015,7 +11015,7 @@ footer.footer .social-link:hover {
 }
 
 .map {
-  height: 30rem;
+  height: 100%;
   padding: 2rem 7rem;
 }
 .map iframe {
