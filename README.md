@@ -15,8 +15,17 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 3. Modelo SIR Ecuador [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/04-25%20Contagio%20COVID%20SIR))
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Modelo%20SIR%20-%20contagios%20COVID.ipynb)
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/04-25%20Contagio%20COVID%20SIR/Informe%20-%20Modelo%20SIR%20-%20contagios%20COVID.pdf)
+4. Simulación de propagación del COVID en el Ecuador [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/04-19%20Propagaci%C3%B3n%20COVID)
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/04-19%20Propagaci%C3%B3n%20COVID/Codigo.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/04-19%20Propagaci%C3%B3n%20COVID/Informe.pdf)
 5. Reportes Matplotlib - FIFA [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/05-05%20Reportes%20Fifa))
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/05-05%20Reportes%20Fifa/Reportes%20Fifa.ipynb)
+6. Car Wash - simulación [(ir a la actividad)]()
+    - Código fuente [📌]()
+    - Informe [📌]()
+7. Proceso de vacunación en el Ecuador - simulación [(ir a la actividad)]()
+    - Código fuente [📌]()
+    - Informe [📌]()
 
 
 ##### Actividades en clase
