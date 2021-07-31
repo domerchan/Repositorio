@@ -23,9 +23,9 @@ Repositorio de tareas, pruebas y exámenes de Simulación
 6. Car Wash - simulación [(ir a la actividad)]()
     - Código fuente [📌]()
     - Informe [📌]()
-7. Proceso de vacunación en el Ecuador - simulación [(ir a la actividad)]()
-    - Código fuente [📌]()
-    - Informe [📌]()
+7. Proceso de vacunación en el Ecuador - simulación [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/06-04%20Vacunaci%C3%B3n%20Ecuador)
+    - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/06-04%20Vacunaci%C3%B3n%20Ecuador/C%C3%B3digo.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/06-04%20Vacunaci%C3%B3n%20Ecuador/Informe.pdf)
 
 
 ##### Actividades en clase
