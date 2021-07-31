@@ -20,6 +20,12 @@ Repositorio de tareas, pruebas y exámenes de Simulación
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/04-19%20Propagaci%C3%B3n%20COVID/Informe.pdf)
 5. Reportes Matplotlib - FIFA [(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/05-05%20Reportes%20Fifa))
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/05-05%20Reportes%20Fifa/Reportes%20Fifa.ipynb)
+6. Car Wash - simulación [(ir a la actividad)]()
+    - Código fuente [📌]()
+    - Informe [📌]()
+7. Proceso de vacunación en el Ecuador - simulación [(ir a la actividad)]()
+    - Código fuente [📌]()
+    - Informe [📌]()
 
 
 ##### Actividades en clase
