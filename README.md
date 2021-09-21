@@ -39,6 +39,7 @@ Repositorio de tareas, pruebas y exámenes de Simulación
     - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/12-05%20Prueba%20Pr%C3%A1ctica%201/Prueba.pdf)
 2. Prueba Práctica 2[(ir a la actividad)](https://github.com/domerchan/Repositorio/tree/main/06-30%20Prueba%20pr%C3%A1ctica%202)
     - Código fuente [📌](https://github.com/domerchan/Repositorio/blob/main/06-30%20Prueba%20pr%C3%A1ctica%202/Prueba.ipynb)
+    - Informe [📌](https://github.com/domerchan/Repositorio/blob/main/06-30%20Prueba%20pr%C3%A1ctica%202/Informe.pdf)
 
 
 ##### Exámenes
